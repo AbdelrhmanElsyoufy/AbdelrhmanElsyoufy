@@ -4,7 +4,7 @@
 ---
 
 ### 🔹 **About Me**
-🚀 Full Stack Developer with **1+ year of experience** specializing in **ASP.NET Core, C#, Angular, and SQL Server**.  
+🚀 Full Stack Developer with **3 year of experience** specializing in **ASP.NET Core, C#, Angular, and SQL Server**.  
 💡 Passionate about building scalable web applications, optimizing database queries, and integrating **RESTful APIs** & **SOAP services**.  
 📚 Always learning new technologies to enhance development and system architecture.  
 
